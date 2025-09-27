@@ -1,2 +1,3 @@
 obspy
 plotly
+streamlit
